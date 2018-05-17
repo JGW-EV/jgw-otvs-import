@@ -1,0 +1,13 @@
+{
+  "name": "jgw-otvs-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:normanrz/jgw-otvs-import.git",
+  "author": "Norman Rzepka <code@normanrz.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.1",
+    "xlsx": "^0.12.12"
+  }
+}
